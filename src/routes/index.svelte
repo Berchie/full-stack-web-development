@@ -1,5 +1,5 @@
 <script>
-    import TodoItem from "../lib/todo-items.svelte";
+    import TodoItem from "$lib/todo-items.svelte";
 
     const title = "Todos";
 </script>
